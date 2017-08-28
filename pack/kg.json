@@ -341,6 +341,6 @@
         "title": "Museum of History",
         "trash_cost": 3,
         "type_code": "asset",
-        "uniqueness": true
+        "uniqueness": false
     }
 ]
